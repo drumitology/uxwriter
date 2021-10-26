@@ -1139,8 +1139,8 @@ button:focus,
 }
 
 .testimonial .testimonial-slider .item .block p {
-  font-family: 'Inter', serif;
-  font-style: italic;
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
   color: #888888;
 }
 

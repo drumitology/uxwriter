@@ -1,4 +1,4 @@
-Inter/*
+/*
 THEME: Small Apps | Bootstrap App Landing Template
 VERSION: 1.0.0
 AUTHOR: Themefisher
@@ -23,7 +23,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Inter', sans-serif;
   color: #000;
-  font-weight: 400;
+  font-weight: 300;
 }
 
 h1 {
@@ -54,7 +54,7 @@ cite {
   font-style: normal;
 }
 
-.inter {
+.Inter {
   font-family: 'Inter', sans-serif;
   font-style: normal;
 }

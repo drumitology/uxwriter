@@ -23,7 +23,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Inter', sans-serif;
   color: #000;
-  font-weight: 700;
+  font-weight: 400;
 }
 
 h1 {
@@ -54,7 +54,7 @@ cite {
   font-style: normal;
 }
 
-.Inter {
+.inter {
   font-family: 'Inter', sans-serif;
   font-style: normal;
 }
@@ -1007,7 +1007,7 @@ button:focus,
 .feature .testimonial p {
   font-family: 'Inter', sans-serif;
   margin-bottom: 10px;
-  font-style: italic;
+  font-style: normal;
   color: #242424;
 }
 
